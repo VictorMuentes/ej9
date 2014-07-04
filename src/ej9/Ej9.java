@@ -28,7 +28,6 @@ public class Ej9 {
             if (valor>0)
             {
                 i=2;
-                
             }
             else
             {
